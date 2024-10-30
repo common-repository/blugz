@@ -1,0 +1,84 @@
+#blugz_comments {
+	margin:10px 0px;
+}
+
+#blugz_media {
+	margin:10px 0px;
+}
+
+.blugz_media_icon {
+	margin-bottom:-3px;
+}
+
+.blugz_media_thumb {
+	width:200px;
+	
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	float:left;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+
+.blugz_comment {
+	margin-left:30px;
+	margin-top:5px;
+}
+
+.blugz_leavecomment {
+	background-image:url(images/add-comment.png);
+	padding-left:20px;
+	background-repeat:no-repeat;
+	margin-left:30px;
+}
+
+.blugz_comments {
+	background-image:url(images/comments.png);
+	background-repeat:no-repeat;
+	padding:3px 0px;
+	padding-left:30px;
+}
+
+h3.blugz_likes {
+	background-image:url(images/likes.png);
+	background-repeat:no-repeat;
+	padding:3px 0px;
+	padding-left:30px;
+}
+
+.blugz_attachments {
+	background-image:url(images/attachments.png);
+	background-repeat:no-repeat;
+	padding:3px 0px;
+	padding-left:30px;
+}
+
+.blugz_link {
+	background-image:url(images/link.png);
+	padding-left:20px;
+	background-repeat:no-repeat;
+	margin-left:30px;
+}
+
+.blugz_spacer {
+	clear:left;
+}
+
+div.blugz_likes {
+	margin-left:30px;
+}
+
+.geolocation-p {
+	margin:0 0 10px 0 !important;
+	padding:0 !important;
+	font-size:11px !important;
+	color:#CCC !important;
+}
+
+.geolocation-p .geolocation-link:visited, .geolocation-p .geolocation-link:link {
+	color:#AAA;
+}
+
+.transparent_title {
+	display:none !important;
+}
